@@ -2,9 +2,9 @@
 
 namespace Lidonation\AdaPayments;
 
+use Lidonation\AdaPayments\Commands\AdaPaymentsCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Lidonation\AdaPayments\Commands\AdaPaymentsCommand;
 
 class AdaPaymentsServiceProvider extends PackageServiceProvider
 {

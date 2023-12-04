@@ -3,8 +3,8 @@
 namespace Lidonation\AdaPayments\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Lidonation\AdaPayments\AdaPaymentsServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
