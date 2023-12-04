@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Lidonation\AdaPayments\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class AdaPaymentsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-adapayments';
 
     public $description = 'My command';
 
